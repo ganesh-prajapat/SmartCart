@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SmartCart
 
 SmartCart is a responsive ReactJS dashboard application built using React, Tailwind CSS, and DummyJSON APIs.
@@ -70,7 +70,7 @@ Password:
 * Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/ganesh-prajapat/SmartCart.git
 ```
 
 * Move into project folder
