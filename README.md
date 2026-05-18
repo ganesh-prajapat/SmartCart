@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartCart
 
 SmartCart is a responsive ReactJS dashboard application built using React, Tailwind CSS, and DummyJSON APIs.
@@ -62,3 +63,36 @@ Email:
 Password:
 [emilyspass]
 
+=======
+
+## Setup & Installation
+
+* Clone the repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_LINK
+```
+
+* Move into project folder
+
+```bash
+cd smartcart
+```
+
+* Install dependencies
+
+```bash
+npm install
+```
+
+* Create `.env` file and add
+
+```env
+VITE_BASE_URL=https://dummyjson.com
+```
+
+* Start development server
+
+```bash
+npm run dev
+```
